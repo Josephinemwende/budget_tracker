@@ -1,3 +1,4 @@
-Feature definition: 
-The program should deduct 20% savings from the income and get balance of the remaining amount
-and it should set and get budget limits depending on the category- if it is food, rent or transport
+## Issue description
+
+The program is not performing the savings calculations as it expected 20% of the income
+Get and set the budget limits depending on the category
