@@ -1,4 +1,14 @@
 ## Issue description
+The 20% of the savings are not deducted from the income and not able to see the budget limits set on each category of the expense.
+The income and expenses can be added and the necessary calculations of expenses from the income carried out, the balance after savings are deducted cannot be calculated
 
-The program is not performing the savings calculations as it expected 20% of the income
-Get and set the budget limits depending on the category
+## steps to reproduce
+1. The user should add their income
+2. Add expenses and their category
+3. Get balance after each expense is deducted
+
+## Expected behavior
+
+The user should be able to see the balance of his or her income after 20% of the savings have been deducted.
+The user should be able to see and set the budget in each category
+
